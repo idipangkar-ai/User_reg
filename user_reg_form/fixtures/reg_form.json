@@ -1,0 +1,50 @@
+[
+ {
+  "choose_user": "qwertyu90",
+  "docstatus": 0,
+  "doctype": "Reg Form",
+  "email_id": "asdfgh@email.com",
+  "first_name": "Dipangkar",
+  "last_name": "Hajong",
+  "modified": "2024-03-25 14:34:12.017065",
+  "name": "Dipangkar",
+  "password": "eurwoiuwreo",
+  "phone_no": "1234567890"
+ },
+ {
+  "choose_user": "zxcvbn",
+  "docstatus": 0,
+  "doctype": "Reg Form",
+  "email_id": "zxbscb@email.com",
+  "first_name": "ABC",
+  "last_name": "Xyz",
+  "modified": "2024-03-25 14:36:58.539466",
+  "name": "ABC",
+  "password": "zxcvbnm",
+  "phone_no": "1234567890"
+ },
+ {
+  "choose_user": "edcrfvtgb",
+  "docstatus": 0,
+  "doctype": "Reg Form",
+  "email_id": "werty@rmail.com",
+  "first_name": "ZXC",
+  "last_name": "Lk",
+  "modified": "2024-03-25 14:37:36.459198",
+  "name": "ZXC",
+  "password": "qwertyuio",
+  "phone_no": "1234567890"
+ },
+ {
+  "choose_user": "nddbdb",
+  "docstatus": 0,
+  "doctype": "Reg Form",
+  "email_id": "qwertyu@fmail.com",
+  "first_name": "CDF",
+  "last_name": "Sdsww",
+  "modified": "2024-03-25 14:38:12.948971",
+  "name": "CDF",
+  "password": "gsggsdgsg",
+  "phone_no": "07538537089"
+ }
+]
